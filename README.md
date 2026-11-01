@@ -21,7 +21,7 @@ Seit 2026 arbeite ich mit **generativer KI und LLMs**: als NVIDIA Certified Prof
 | Projekt | Beschreibung | Technik |
 |---|---|---|
 | [**gb10-assets**](https://github.com/StefanMenne/gb10-assets) | Selbst gehosteter Server, der einen NVIDIA-GB10-Rechner (DGX Spark, ASUS Ascent GX10) im Netzwerk als Generator für Bilder, Videos, Sprache und 3D-Modelle bereitstellt. Er nimmt Jobs in eine Warteschlange auf und hält immer nur ein Modell im Speicher. Ansprechbar per REST-API, MCP-Server oder als Claude-Code-Plugin, dessen Skills z. B. aus einer Beschreibung eine animierte Spielfigur erzeugen. Ein Web-Dashboard zeigt GPU, Speicher und Jobs. | Python, FastAPI, Docker, CUDA, MCP, FLUX.2, Qwen3-TTS, LTX-2.5, Blender |
-| [**smChess3d**](https://github.com/StefanMenne/smChess3d) | 3D-Schach im Browser. Die zwölf animierten Figuren habe ich komplett lokal mit generativer KI erzeugt (FLUX.2 → TRELLIS.2 → Blender) und die Pipeline über Claude Code gesteuert. Der Computergegner ist selbst geschrieben (Negamax mit Alpha-Beta-Suche). | JavaScript, Three.js, Playwright |
+| [**smChess3d**](https://github.com/StefanMenne/smChess3d) | 3D-Schach im Browser. Die zwölf animierten Figuren habe ich komplett lokal mit generativer KI erzeugt (FLUX.2 → TRELLIS.2 → Blender) und die Pipeline über Claude Code gesteuert. | JavaScript, Three.js, Playwright |
 | [**smTablebases**](https://github.com/StefanMenne/smTablebases) | Generator für Schach-Endspieldatenbanken mit Multithreading und eigener LZMA-basierter Kompression. 2026 auf .NET 10 portiert, die Oberfläche läuft jetzt mit Avalonia auf mehreren Plattformen. | C#, .NET 10, Avalonia |
 | [**kyphi**](https://github.com/StefanMenne/kyphi) | 2D-Point-and-Click-Adventure (in Entwicklung) | Godot, GDScript |
 
