@@ -2,7 +2,7 @@
 
 Diplom-Informatiker (Universität Bonn) mit über 24 Jahren Erfahrung in der Automotive-Softwareentwicklung bei Continental / AUMOVIO.
 Meine Stationen: Grafik- und Kartensoftware, Bootloader-Entwicklung in C, dann zehn Jahre Integrationstest und CI/CD für Embedded-Plattformen.
-Seit 2026 arbeite ich mit **generativer KI und LLMs**: als NVIDIA Certified Professional, mit eigener KI-Hardware (NVIDIA GB10 Grace Blackwell) und mit **Claude Code** als täglichem Entwicklungswerkzeug.
+Seit 2025 arbeite ich mit **generativer KI und LLMs**: als NVIDIA Certified Professional, mit eigener KI-Hardware (NVIDIA GB10 Grace Blackwell) und mit **Claude Code** als täglichem Entwicklungswerkzeug.
 
 **Ich suche eine Stelle als KI-Entwickler, Softwareentwickler oder Testingenieur.**
 
@@ -31,12 +31,42 @@ Seit 2026 arbeite ich mit **generativer KI und LLMs**: als NVIDIA Certified Prof
 - **stChess:** Turnierverwaltung für Schachvereine. 1999 in C++ entstanden, 2004 nach C# portiert, mehrere Jahre kommerziell verkauft und heute Freeware.
 - **CI/CD-Toolchain für Embedded-Bootloader-Tests:** durchgängige Pipeline mit Docker, Python, Jenkins, Git, Jira und IBM DOORS.
 
-## 🎓 Zertifikate
+## 🎓 Zertifikate & Weiterbildung
 
-- NVIDIA Certified Professional – Generative AI and LLMs (2026)
-- NVIDIA Certified Associate – Generative AI and LLMs (2026)
+**Zertifizierungen**
+
+- NVIDIA Certified Professional – Generative AI and LLMs (NCP-GENL, 2026)
+- NVIDIA Certified Associate – Generative AI and LLMs (NCA-GENL, 2026)
 - ISTQB Certified Tester Foundation Level (2026)
 - SAFe for Teams (5.1) – Scaled Agile
+
+**Coursera** – 4 Abschlüsse mit 32 Kursen (06/2025 – 03/2026)
+
+| Abschluss | Anbieter | Umfang | Datum |
+|---|---|---|---|
+| [Generative AI Engineering – Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/MW5U892WIZ29) | IBM | 16 Kurse | 11/2025 |
+| [AI Agent Developer – Specialization](https://www.coursera.org/account/accomplishments/specialization/E4NXBWHUBM60) | Vanderbilt University | 6 Kurse | 01/2026 |
+| [Exam Prep NCA-GENL – Specialization](https://www.coursera.org/account/accomplishments/specialization/ON3AP2TNBOLC) (Vorbereitungskurs) | Whizlabs | 6 Kurse | 03/2026 |
+| [Introduction to Generative AI Learning Path – Specialization](https://www.coursera.org/account/accomplishments/specialization/IPE77KKADWKZ) | Google Cloud | 4 Kurse | 06/2025 |
+
+Schwerpunkte: LLM Fine-Tuning, RAG / LangChain, Agentic AI, Transformer, GenAI-Anwendungen in Python, Deployment, Responsible AI
+
+<details>
+<summary>Alle Einzelkurse anzeigen</summary>
+
+**IBM Generative AI Engineering** (06/2025 – 11/2025)
+AI Foundations · Generative AI Essentials · Prompt Engineering for Generative AI · Python for Data Science & AI · Build & Deploy AI Applications with Python & Flask · Building Generative AI-Powered Applications with Python · Data Analysis with Python · Machine Learning with Python · Deep Learning & Neural Networks with Keras · Generative AI and LLMs: Architecture and Data Preparation · Gen AI Foundational Models for NLP · Generative AI Language Modeling with Transformers · Generative AI Engineering and Fine-Tuning Transformers · Generative AI Advanced Fine-Tuning for LLMs · Fundamentals of AI Agents Using RAG and LangChain · Project: Generative AI Applications with RAG and LangChain
+
+**AI Agent Developer – Vanderbilt** (11/2025 – 01/2026)
+AI Agents and Agentic AI with Python & Generative AI · AI Agents and Agentic AI Architecture in Python · OpenAI GPTs: Creating Your Own Custom AI Assistants · Prompt Engineering for ChatGPT · ChatGPT Advanced Data Analysis · Trustworthy Generative AI
+
+**Exam Prep NCA-GENL – Whizlabs** (02/2026 – 03/2026)
+Fundamentals of Machine Learning · Fundamentals of Deep Learning · Fundamentals of NLP and Transformers · Large Language Models and Generative AI Deployment · Prompt Engineering and Data Analysis · LLM Experimentation, Deployment, and Ethical AI
+
+**Introduction to Generative AI – Google Cloud** (06/2025)
+Introduction to Generative AI · Introduction to Large Language Models · Introduction to Responsible AI · Responsible AI: Applying AI Principles with Google Cloud
+
+</details>
 
 ## 📫 Kontakt
 
