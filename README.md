@@ -1,4 +1,4 @@
-# Hallo, ich bin Stefan Menne 👋
+# Stefan Menne – Softwareentwickler & KI-Engineer (GenAI / LLMs)
 
 Diplom-Informatiker (Universität Bonn) mit über 24 Jahren Erfahrung in der Automotive-Softwareentwicklung bei Continental / AUMOVIO.
 Meine Stationen: Grafik- und Kartensoftware, Bootloader-Entwicklung in C, dann zehn Jahre Integrationstest und CI/CD für Embedded-Plattformen.
