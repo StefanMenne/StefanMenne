@@ -31,7 +31,7 @@ Seit 2025 arbeite ich mit **generativer KI und LLMs**: als NVIDIA Certified Prof
 - **stChess:** Turnierverwaltung für Schachvereine. 1999 in C++ entstanden, 2004 nach C# portiert, mehrere Jahre kommerziell verkauft und heute Freeware.
 - **CI/CD-Toolchain für Embedded-Bootloader-Tests:** durchgängige Pipeline mit Docker, Python, Jenkins, Git, Jira und IBM DOORS.
 
-## 🎓 Zertifikate & Weiterbildung
+## 🎓 Zertifikate
 
 **Zertifizierungen**
 
